@@ -1,3 +1,5 @@
+** This is forked to support installing this package via poetry for tv_table_extraction**
+
 # MMDetection
 
 **News**: We released the technical report on [ArXiv](https://arxiv.org/abs/1906.07155).
